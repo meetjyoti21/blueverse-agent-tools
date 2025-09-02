@@ -1,0 +1,6 @@
+Timestamp,Location,Asset,Severity,Type,TrendSummary,ContextDetails
+01-04-2024 08:15,Boiler Room A,Steam Boiler #3,High,Pressure Spike,Frequent pressure spikes during morning shift over past 2 weeks,"Morning shift, high production load, ambient temperature 22°C"
+02-04-2024 14:30,Cooling Tower Zone,Cooling Pump #2,Medium,Flow Rate Drop,Gradual decline in flow rate observed over last 5 days,"Afternoon shift, moderate humidity, low load"
+03-04-2024 22:45,Compressor Bay,Air Compressor #1,Critical,Temperature Surge,Sudden temperature spikes during night operations,"Night shift, high ambient temperature, full load"
+04-04-2024 11:00,Water Treatment Plant,Filtration Unit #5,Low,Sensor Drift,Minor sensor drift detected intermittently,"Day shift, stable weather, normal operations"
+05-04-2024 16:20,Packaging Line,Conveyor Motor #7,Medium,Vibration Anomaly,Increased vibration levels during peak hours,"Evening shift, high throughput, moderate temperature"
